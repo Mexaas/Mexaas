@@ -5,7 +5,7 @@
 [Discord](https://discord.gg/ezKDWxpkzh) • [VK](https://vk.com/mexaas) • [SpigotMC.ru](https://spigotmc.ru/members/mexaa_.79484/#about) • [SpigotMC.org](https://www.spigotmc.org/members/mexaa_.1196753/) • [Modrinth](https://modrinth.com/user/Mexaa_)
 
 ---
-I’m a 17-year-old Junior Developer with a deep interest in backend systems and game logic. My core toolkit includes **Java**, **Python**, **Kotlin**, with a primary focus on high-performance server-side development using **PaperAPI**.
+I’m a 17-year-old Junior Developer with a deep interest in backend systems and game logic. My core toolkit includes **Java**, **Python**, **Kotlin**, with a primary focus on high-performance server-side development using **Bukkit, Spigot, PaperAPI**.
 I enjoy solving complex problems, optimizing code, and learning new technologies every day.
 
 - 🔭 I’m currently working with **Minecraft Plugins**
