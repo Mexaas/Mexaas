@@ -16,4 +16,4 @@ I enjoy solving complex problems, optimizing code, and learning new technologies
 
 ---
 * 📬 Reach me on [Discord](https://discord.gg/ezKDWxpkzh), [VK](https://vk.com/mexaas) or [Gmail](niktonov234@gmail.com)
-* 🏳️‍🌈 Pronouns: He/Him
+* 🇰🇿 Pronouns: He/Him
