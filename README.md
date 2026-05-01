@@ -1,4 +1,4 @@
-![Triangle](https://i.imgur.com/iNCS4T9.gif?noredirect)
+![Triangle](https://imgur.com/gallery/pudge-lbp5K9F)
 
 # Hi there, 👋 I'm Ruslan
 
