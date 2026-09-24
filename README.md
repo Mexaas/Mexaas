@@ -4,8 +4,7 @@
 
 [Discord](https://discord.gg/ezKDWxpkzh) • [VK](https://vk.com/mexaas) • [SpigotMC.ru](https://spigotmc.ru/members/mexaa_.79484/#about) • [SpigotMC.org](https://www.spigotmc.org/members/mexaa_.1196753/) • [Modrinth](https://modrinth.com/user/Mexaa_) • [Telegram](https://t.me/mexaass)
 
----
-I am a 18-year-old Java Backend Developer based in Almaty, Kazakhstan. I specialize in building high-performance backend systems.
+I am a 18-year-old Java Backend Developer based in Almaty, Kazakhstan.
 
 ## 📦 Toolkit
 - 💻 Languages: Java, Bash
@@ -16,4 +15,3 @@ I am a 18-year-old Java Backend Developer based in Almaty, Kazakhstan. I special
 
 ---
 * 📬 Reach me on [Discord](https://discord.gg/ezKDWxpkzh), [VK](https://vk.com/mexaas) or [Telegram](https://t.me/mexaass)
-* 🇰🇿 Pronouns: He/Him
