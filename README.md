@@ -2,13 +2,13 @@
 
 # Hi there, 👋 I'm Ruslan
 
-I am a 18-year-old Java Backend Developer based in Almaty, Kazakhstan.
+I am a 18-year-old Backend Developer based in Almaty, Kazakhstan.
 
 ## 📦 Toolkit
-- 💻 Languages: Java, Bash
-- ⚡ Technologies: Maven/Gradle
+- 💻 Languages: Rust, Bash
+- ⚡ Technologies: No
 - ⌛ Databases: PostgreSQL, MongoDB, SQLite
-- 🧱 Infrastructure: Arch Linux (Daily Driver), NixOS, Ubuntu, VM Deployment
+- 🧱 Infrastructure: Arch Linux (Daily Driver), NixOS, Void Linux, Ubuntu
 - 🔧 Tools: Neovim, Git, Zsh, Docker
 
 ---
